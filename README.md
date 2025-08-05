@@ -64,6 +64,14 @@ This will end all independent websites and online communities. This will end mos
 
 You can find more information on the current global age verification laws on [freespeechcoalition.com](https://action.freespeechcoalition.com/age-verification-resources/global-age-verification-policies) and the [AVPA](https://avpassociation.com/map).
 
+## Articles opposing them
+Here are some articles opposing age verification by the Electronic Frontier Foundation:
+- [Protecting Minors Online Must Not Come at the Cost of Privacy and Free Expression](https://www.eff.org/deeplinks/2025/06/protecting-minors-online-must-not-come-cost-privacy-and-free-expression)
+- [Keeping People Safe Online – Fundamental Rights Protective Alternatives to Age Checks](https://www.eff.org/deeplinks/2025/05/keeping-people-safe-online-fundamental-rights-protective-alternatives-age-checks)
+- [Just Banning Minors From Social Media Is Not Protecting Them](https://www.eff.org/deeplinks/2025/07/just-banning-minors-social-media-not-protecting-them)
+- [Zero Knowledge Proofs Alone Are Not a Digital ID Solution to Protecting User Privacy](https://www.eff.org/deeplinks/2025/07/zero-knowledge-proofs-alone-are-not-digital-id-solution-protecting-user-privacy)
+- [Despite Supreme Court Setback, EFF Fights On Against Online Age Mandates](https://www.eff.org/deeplinks/2025/07/despite-supreme-court-setback-eff-fights-against-online-age-mandates)
+
 # Disclaimer
 This is obviously satire and for demonstration purposes, using this script will not make your website comply with any laws regarding age verification, it does not actually perform any checks.
 
