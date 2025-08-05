@@ -40,7 +40,7 @@ Simply paste one of these two code snippets in your \<head>.
 
 **Anonymity is an essential part of the internet, not only are laws progressing toward making identification a requirement, creating a security risk, they are also being enforced without providing any resources for compliance. All the costs of verification services will have to be paid by the service provider, thus rendering the creation of small indie websites run by one person or a handful of people inviable and unprofitable.**
 
-As said [this reddit discussion](https://www.reddit.com/r/webdev/comments/1mhiw6c/theyre_destroying_the_internet_in_real_time_there):
+As said in [this reddit discussion](https://www.reddit.com/r/webdev/comments/1mhiw6c/theyre_destroying_the_internet_in_real_time_there):
 
 "Every country seems to be passing the same law, all at once. And with a near 100% majority in their congress. This is clearly coordinated.
 
