@@ -1,6 +1,6 @@
 # Fake Age Verification
 
-Have you noticed and increase in websites asking you for personal information in order to verify you are 18+? YouTube, Discord, Google, Spotify, Xbox, Roblox, X...
+Have you noticed an increase in websites asking you for personal information in order to verify you are 18+? YouTube, Discord, Google, Spotify, Xbox, Roblox, X...
 
 Age verification is in the horizon to become a requirement for social media, or any platform with a social aspect (chat, comment sections...) to operate.
 
@@ -13,29 +13,29 @@ This is a simple JS script that simulates age verification via facial age estima
 - Fake processing time
 - A cookie to remember if the user is verified
 
-# How to use
-Simply paste one of these two code snippets in your \<head>.
-
-## With face detection
-Face detection uses [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-```html
-<script defer src="https://unpkg.com/face-api.js@0.22.2/dist/face-api.min.js"></script>
-<script src="age-verification.js"></script>
-```
-
-## Without face detection
-```html
-<script src="age-verification.js"></script>
-```
-
 # Demonstration
 (The following picture was generated with https://thispersondoesnotexist.com)
 
-With face detection:
+Face detection:
 ![Demo of Fake Age Verification](demonstration/video-demonstration.gif)
 
 ID upload:
 ![Demo of Fake Age Verification](demonstration/id.png)
+
+# How to use
+Simply paste one of these two code snippets in your \<head>.
+
+**With face detection:**
+Face detection uses [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+```html
+<script defer src="https://unpkg.com/face-api.js@0.22.2/dist/face-api.min.js"></script>
+<script src="https://github.com/zzniki/fake-age-verification/releases/download/v1.0/age-verification.js"></script>
+```
+
+**Without face detection:**
+```html
+<script src="https://github.com/zzniki/fake-age-verification/releases/download/v1.0/age-verification.js"></script>
+```
 
 # The story
 
