@@ -25,8 +25,7 @@ ID upload:
 # How to use
 Simply paste one of these two code snippets in your \<head>.
 
-**With face detection:**
-Face detection uses [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+**With face detection:** Uses [face-api.js](https://github.com/justadudewhohacks/face-api.js)
 ```html
 <script defer src="https://unpkg.com/face-api.js@0.22.2/dist/face-api.min.js"></script>
 <script src="https://github.com/zzniki/fake-age-verification/releases/download/v1.0/age-verification.js"></script>
